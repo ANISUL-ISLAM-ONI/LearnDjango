@@ -1,2 +1,1 @@
 # LearnDjango
-Blog site creation
